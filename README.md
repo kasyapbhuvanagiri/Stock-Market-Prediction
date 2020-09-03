@@ -1,1 +1,2 @@
-# Stock-Market-Prediction
+# TheStock
+The next days stock value is predicted
